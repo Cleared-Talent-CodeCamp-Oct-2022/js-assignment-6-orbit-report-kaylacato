@@ -26,3 +26,7 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+tr:nth-child(even) {
+	background-color: rgba(0, 255, 13, 0.643);
+}
